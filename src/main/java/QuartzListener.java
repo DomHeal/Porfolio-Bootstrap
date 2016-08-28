@@ -7,7 +7,10 @@ import javax.servlet.ServletContextEvent;
 import javax.servlet.annotation.WebListener;
 
 /**
- * Created by Dominic on 25-Aug-16.
+ * @author Dominic
+ * @since 25-Aug-16
+ * Website: www.dominicheal.com
+ * Github: www.github.com/DomHeal
  */
 
 @WebListener

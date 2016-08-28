@@ -82,7 +82,7 @@
         </c:if>
             <div class="col-md-4 portfolio-item">
                  <a href="${project.url}">
-                    <img class="img-responsive" src="images/${project.name}.png" onerror="this.src='images/ShowImage.jpg'">
+                    <img class="img-responsive" src="images/${project.name}.png" onerror="this.src='images/ShowImage.png'">
                  </a>
                  <h3>
                     <a href="${project.url}">${project.name}</a>

@@ -1,5 +1,8 @@
 /**
- * Created by Dominic on 21-Aug-16.
+ * @author Dominic
+ * @since 21-Aug-16
+ * Website: www.dominicheal.com
+ * Github: www.github.com/DomHeal
  */
 public class Project {
     String _name;
